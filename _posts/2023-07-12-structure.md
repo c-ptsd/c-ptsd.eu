@@ -15,7 +15,7 @@ After a short welcome round, a person who has brought an exercise for the appoin
 
 We then read a paragraph/half page of a trauma book, and then establish the connection to ourselves in conversation: what are our experiences, what does what we have read do to us, how can we apply what we have read on our healing path, etc.? We then repeat these two steps. From experience, the speaking part is significantly greater than the reading part. The aim is not to read a lot and quickly, but to take as much as possible from it for ourselves. There is no homework, and it is not a problem to be absent or to start in the middle of a book, as it is about the content, topics and us and not about the structure of the book. Imagine an ordinary self-help group where the topics of discussion are predetermined by the book.
 
-Books we are currently reading:
+Books we finished:
 - [Laurence Heller, Aline LaPierre: Entwicklungstrauma heilen: Alte Überlebensstrategien lösen - Selbstregulierung und Beziehungsfähigkeit stärken - Das Neuroaffektive Beziehungsmodell zur Traumaheilung NARM](https://www.amazon.de/dp/3466309220/)
 - [Pete Walker: Posttraumatische Belastungsstörung - Vom Überleben zu neuem Leben: Ein praktischer Ratgeber zur Überwindung von Kindheitstraumata](https://www.amazon.de/dp/3962570756/)
 
