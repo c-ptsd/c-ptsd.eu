@@ -1,0 +1,22 @@
+title: "CPTSD self-help online (complex post-traumatic stress disorder)"
+short_title: CPTSD Self-help
+iconURL: assets/kptbs-icon.png
+logo: assets/kptbs-icon.png
+remote_theme: 3xz/k-ptbs
+url: https://c-ptsd.eu
+baseurl: /
+
+# for a clean URL
+permalink: :slug
+
+social:
+  instagram: kptbs.selbsthilfe
+  facebook: kptbs.selbsthilfe
+  links:
+    - https://instagram.com/kptbs.selbsthilfe
+    - https://facebook.com/kptbs.selbsthilfe
+
+plugins:
+ - jekyll-seo-tag
+ - jekyll-remote-theme
+ - jekyll-feed
