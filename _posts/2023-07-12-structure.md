@@ -49,7 +49,7 @@ This is a space for people who identified as racialized groups, have been diagno
 C-PTSD and who have experienced any form of racism, islamophobia and antisemitism.
 
 Planned books:
-- Gutiérrez, Natalie Y. (2022). The Pain We Carry : Healing from Complex PTSD for People of Colour. New Harbinger Publications
+- Gutiérrez, Natalie Y. (2022). The Pain We Carry: Healing from Complex PTSD for People of Colour. New Harbinger Publications
 - Hill, Tamara. (2023) The Racial Trauma Handbook For Teens. CBT Skills To Heal From The Personal & Intergenerational Trauma of Racism. New Harbinger Publications.
 - Parker, Gail. 2022. Transforming Ethnic and Race-Based Traumatic Stress with Yoga. London and Philadelphia: Singing Dragon.
 - Singh, Anneliese A. (2019). The Racial Healing Handbook. Practical Activities to Help You Challenge Privilege, Confront Systemic Racism, and Engage in Collective Healing. New Harbinger Publications.
